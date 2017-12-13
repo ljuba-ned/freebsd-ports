@@ -1,1 +1,4 @@
 My custom FreeBSD ports.
+
+Forked from https://github.com/pvalkone/freebsd-ports mainly because of
+`i3-gaps` port, though there are some other gems in here.
